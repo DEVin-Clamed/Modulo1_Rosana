@@ -1,6 +1,6 @@
 export default function PostFooter({ numeroDeCurtidas, curtidoPor }) {
   return (
-    <div className="Footer">
+    <div>
       <div className="FooterUp">
         <div className="HeartComments">
           <img

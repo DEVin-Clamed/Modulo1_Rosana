@@ -19,7 +19,7 @@ export default function PostHeader({
       <img
         src="https://img.icons8.com/material-rounded/24/000000/menu-2.png"
         alt="menu"
-        class="Menu"
+        className="Menu"
       />
     </div>
   );
