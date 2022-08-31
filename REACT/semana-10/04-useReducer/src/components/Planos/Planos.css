@@ -77,20 +77,6 @@
   margin-bottom: 20px;
  }
 
- .Compartilhe {
-  border: 2px solid #fff;
-  border-radius: 10px;
-  width: 600px;
-  margin: 0 auto;
-  padding: 20px;
- }
-
- .Compartilhe p, .Compartilhe span {
-  font-size: 1.3em;
-  color: rgb(62, 61, 61);
-  margin-bottom: 10px;
- }
-
  .Adicionar{
   margin-bottom: 10px;
  }
@@ -100,28 +86,4 @@
   border-radius: 10px;
   border: 2px solid #fff;
   margin-left: 10px;
- }
-
- .Compartilhe button {
-  background-color: #4CAF50;
-  color: #fff;
-  padding: 5px;
-  border-color: #4CAF50;
-  border-radius: 10px;
-  margin: 0 10px;
-  font-size: 0.8em;
-  font-weight: bold;
- }
-
- .Compartilhe ul {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin: 10px auto 0;
-  list-style: none;
- }
-
- .Compartilhe li > button {
-  padding: 4px 8px;
-  border-radius: 50px;
  }
