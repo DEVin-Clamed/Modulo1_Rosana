@@ -1,0 +1,11 @@
+.BemVindo {
+  font-size: 2em;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.BemVindo span {
+  display: block;
+  font-size: 1em;
+  color: #fff;
+}
