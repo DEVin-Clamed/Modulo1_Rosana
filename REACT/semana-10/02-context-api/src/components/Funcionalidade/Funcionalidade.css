@@ -1,0 +1,26 @@
+.Funcionalidade {
+  display: flex;
+  margin: 20px;
+  width: 400px;
+}
+
+.Descricao {
+  flex: 1;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.Imagem {
+  margin: 10px;
+}
+
+.Imagem img {
+  width: 75px;
+  height: 75px;
+}
+
+.Funcionalidade h4 {
+  margin: 0;
+}
