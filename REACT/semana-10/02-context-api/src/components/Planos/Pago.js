@@ -8,8 +8,7 @@ import oQueQuiser from "../../assets/oquequiser.png";
 import { UsuarioContext } from "../../context/usuarioContext";
 import { MusicasContext } from '../../context/musicasContext';
 
-import { BemVindo, Funcionalidade } from "../../components";
-import { Musica } from "../Musica/Musica";
+import { BemVindo, Funcionalidade, Musica } from "../../components";
 
 export const Pago = () => {
   const funcionalidades = [
